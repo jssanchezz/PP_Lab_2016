@@ -1,0 +1,6 @@
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\bin\Debug\PracticaParcial.exe
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\bin\Debug\PracticaParcial.pdb
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\obj\Debug\PracticaParcial.csprojResolveAssemblyReference.cache
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\obj\Debug\PracticaParcial.exe
+D:\Sanchez Juan\PP_Producto\Sanchez.Juan.2A\PracticaParcial\obj\Debug\PracticaParcial.pdb
